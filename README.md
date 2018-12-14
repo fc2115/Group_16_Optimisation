@@ -1,6 +1,6 @@
-## Group_16_Optimisation_Felix_Keshav
+# Group_16_Optimisation_Felix_Keshav
 
-# Optimisation of the Imperial College Racing Green Shell Eco Marathon Vehicle
+## Optimisation of the Imperial College Racing Green Shell Eco Marathon Vehicle
 
 Subsystem_1 is the Optimisation of part of the chassis.  
 Subsystem_2 is the Optimisation of the Gear Train.  
