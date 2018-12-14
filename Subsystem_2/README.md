@@ -12,7 +12,13 @@ For the Drivetrain Efficiency Optimisation
 ##### Mass_optimisation.m
 For the Gear Sprocket Mass Optimisation
 
+## Execution Time
+- Multi Objective Optimisation Script (Multi_obj_sub2.) Roughly 15 seconds.  
+- Single objective Optimisation Scripts (Effiency_optimisation.m & Mass_optimisation.m). Roughly 1.5 Seconds.
+- tel Core i7-4600U CPU @Dual-core 2.1-3.3GHzz, 16GB RAM
+
 #### For Meta Modelling:
+
 ##### Metamodel_creation_Stress.m
 Meta modelling the Stress contraint on the Gear
 ##### Metamodel_creation_mass.m
