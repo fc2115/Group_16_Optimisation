@@ -16,7 +16,7 @@ Meta modelling the Stress contraint on the Gear
 Meta modelling the Mass of part of the Gear
 
 ## Dependencies
-This code requires MATLAB_R2016b
+This code requires MATLAB_R2016b.  
 There are 2 extra matlab toolboxes required to run Metamodel_creation_Stress.m  
 They can be found here:  
 https://uk.mathworks.com/matlabcentral/fileexchange/30391-symbolic-polynomials?focused=5194768&tab=function  
