@@ -2,6 +2,21 @@ There are 2 extra matlab toolboxes required to run Metamodel_creation_Stress.m
 They can be found here:  
 https://uk.mathworks.com/matlabcentral/fileexchange/30391-symbolic-polynomials?focused=5194768&tab=function  
 https://uk.mathworks.com/matlabcentral/fileexchange/34765-polyfitn  
+## Main Scripts
+
+#### For Optimisation
+##### Multi_obj_sub2.m
+For the multi objective Optimisation
+##### Effiency_optimisation.m
+For the Drivetrain Efficiency Optimisation
+##### Mass_optimisation.m
+For the Gear Sprocket Mass Optimisation
+
+#### For Meta Modelling:
+##### Metamodel_creation_Stress.m
+Meta modelling the Stress contraint on the Gear
+##### Metamodel_creation_mass.m
+Meta modelling the Mass of part of the Gear
 ## Folder Structure
 #### CHAIN SPROKET modified.SLDPRT
 The Solidworks file used for FEA modelling of Gear Sprocket mass.
@@ -42,19 +57,5 @@ The data file containing FEA simulation results from the LHsam_mass.xlsx inputs 
 #### trans_eff.m
 Function file containing objective functions of the drivetrain efficiency. Parameters are C, Rd. 
 
-## Main Scripts
 
-#### For Optimisation
-##### Multi_obj_sub2.m
-For the multi objective Optimisation
-##### Effiency_optimisation.m
-For the Drivetrain Efficiency Optimisation
-##### Mass_optimisation.m
-For the Gear Sprocket Mass Optimisation
-
-#### For Meta Modelling:
-##### Metamodel_creation_Stress.m
-Meta modelling the Stress contraint on the Gear
-##### Metamodel_creation_mass.m
-Meta modelling the Mass of part of the Gear
 
