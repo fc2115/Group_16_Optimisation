@@ -1,7 +1,3 @@
-There are 2 extra matlab toolboxes required to run Metamodel_creation_Stress.m  
-They can be found here:  
-https://uk.mathworks.com/matlabcentral/fileexchange/30391-symbolic-polynomials?focused=5194768&tab=function  
-https://uk.mathworks.com/matlabcentral/fileexchange/34765-polyfitn  
 ## Main Scripts
 
 #### For Optimisation
@@ -13,7 +9,11 @@ For the Drivetrain Efficiency Optimisation
 For the Gear Sprocket Mass Optimisation
 #### For Meta Modelling:
 ##### Metamodel_creation_Stress.m
-Meta modelling the Stress contraint on the Gear
+Meta modelling the Stress contraint on the Gear  
+There are 2 extra matlab toolboxes required to run Metamodel_creation_Stress.m  
+They can be found here:  
+https://uk.mathworks.com/matlabcentral/fileexchange/30391-symbolic-polynomials?focused=5194768&tab=function  
+https://uk.mathworks.com/matlabcentral/fileexchange/34765-polyfitn  
 ##### Metamodel_creation_mass.m
 Meta modelling the Mass of part of the Gear
 
