@@ -1,5 +1,8 @@
 ## Folder Structure
-
+There are 2 extra matlab toolboxes required to run Metamodel_creation_Stress.m  
+They can be found here:  
+https://uk.mathworks.com/matlabcentral/fileexchange/30391-symbolic-polynomials?focused=5194768&tab=function  
+https://uk.mathworks.com/matlabcentral/fileexchange/34765-polyfitn  
 #### CHAIN SPROKET modified.SLDPRT
 The Solidworks file used for FEA modelling of Gear Sprocket mass.
 #### Effiency_optimisation.m
