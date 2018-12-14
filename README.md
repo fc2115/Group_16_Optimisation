@@ -1,4 +1,4 @@
-# Group_16_Optimisation_Felix_Keshav
+# Group_16_Optimisation_Keshav_Felix
 
 ## Optimisation of the Imperial College Racing Green Shell Eco Marathon Vehicle
 
